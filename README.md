@@ -1,2 +1,2 @@
-# CComputing-Vision---Shortskills-Course
+# Computing-Vision---Shortskills-Course
 Here you have the material for the class
