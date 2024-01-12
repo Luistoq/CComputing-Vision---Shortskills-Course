@@ -19,16 +19,13 @@ The notebook is structured to provide a hands-on approach, making it ideal for b
 
 ## How to Use
 1. Clone this repository to your local machine or open it in an online Jupyter environment.
-2. Ensure you have Python and the required libraries (OpenCV, Matplotlib, NumPy) installed.
+2. Ensure you have installed Python and the required libraries (OpenCV, Matplotlib, NumPy).
 3. Run the notebook to see the computer vision techniques in action.
 
 ## Contributing
 This repository is part of a collaborative project. Contributions, suggestions, and feedback are welcome. Please feel free to open an issue or a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
-- Special thanks to Carlos Moreno, Senior Lecturer at RGU, for his guidance and expertise in the creation of this course.
+- Special thanks to Carlos Moreno, Senior Lecturer at RGU, for his guidance and expertise in creating this course.
 - Robert Gordon University's School of Computing for supporting this initiative.
 
