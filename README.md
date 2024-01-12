@@ -26,4 +26,9 @@ The notebook is structured to provide a hands-on approach, making it ideal for b
 This repository is part of a collaborative project. Contributions, suggestions, and feedback are welcome. Please feel free to open an issue or a pull request.
 
 ## License
-This
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+- Special thanks to Carlos Moreno, Senior Lecturer at RGU, for his guidance and expertise in the creation of this course.
+- Robert Gordon University's School of Computing for supporting this initiative.
+
