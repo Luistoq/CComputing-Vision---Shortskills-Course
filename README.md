@@ -3,7 +3,7 @@
 This repository contains a notebook demonstrating basic computer vision techniques, serving as a showcase for the "Computer Vision for The Energy Sector" course. The course, designed in collaboration with Carlos Moreno, Senior Lecturer at the School of Computing, Robert Gordon University (RGU), aims to provide practical insights into applying computer vision in the energy sector.
 
 ## Course Information
-![Course Information](media/course_info_screenshot.png)
+![Course Information](media/cv_rgu_course.png)
 
 Interested in the full course? Find more details [here](https://www.rgu.ac.uk/study/courses/5630-computer-vision-for-the-energy-sector).
 
